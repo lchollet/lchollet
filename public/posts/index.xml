@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Portfolio</title>
-    <link>https://leochollet..ch/posts/</link>
+    <link>https://lchollet.github.io/lchollet/posts/</link>
     <description>Recent content in Posts on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-fr</language>
     <lastBuildDate>Fri, 05 Jan 2024 11:06:29 +0100</lastBuildDate>
-    <atom:link href="https://leochollet..ch/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lchollet.github.io/lchollet/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expérimentation - Extention WordPress de prise de rendez-vous</title>
-      <link>https://leochollet..ch/posts/experimentation/</link>
+      <link>https://lchollet.github.io/lchollet/posts/experimentation/</link>
       <pubDate>Fri, 05 Jan 2024 11:06:29 +0100</pubDate>
-      <guid>https://leochollet..ch/posts/experimentation/</guid>
+      <guid>https://lchollet.github.io/lchollet/posts/experimentation/</guid>
       <description>Introduction Dans le cadre de cette veille technologique, j&amp;rsquo;ai découvert une extension WordPress permettant une gestion dynamique des rendez-vous, nommée Amelia. Lien vers leur site ici
 L&amp;rsquo;extension propose une interface responsive, propre et facile d&amp;rsquo;utilisation, offrant diverses fonctionnalités telles que des notifications de rendez-vous avec rappel automatique, etc.
 Dans cette expérimentation, je vais présenter un cas d&amp;rsquo;utilisation sur mon site dédié aux prises de rendez-vous pour le lavage automobile. Lien du site de lavage auto</description>
     </item>
     <item>
       <title>Veille technologique - le système mis en place</title>
-      <link>https://leochollet..ch/posts/ecoute/</link>
+      <link>https://lchollet.github.io/lchollet/posts/ecoute/</link>
       <pubDate>Thu, 04 Jan 2024 16:26:07 +0100</pubDate>
-      <guid>https://leochollet..ch/posts/ecoute/</guid>
+      <guid>https://lchollet.github.io/lchollet/posts/ecoute/</guid>
       <description>Domaine de veille Sur ce blog, vous retrouverez les articles qui concernent mon domaine d&amp;rsquo;intérêt, le développement web. Ce domaine m&amp;rsquo;intéresse car je le trouve relativement simple à comprendre, utile et surtout facilement applicable. Le fait de pouvoir aussi à tout moment travailler en indépendant est aussi un gros plus, ajoutant une grande flexibilité des horaires de travail, etc&amp;hellip;
 Mes sources de veille Pour faire cette veille, je me suis appuyé sur plusieurs sources.</description>
     </item>
     <item>
       <title>Les tendances technologique 2024</title>
-      <link>https://leochollet..ch/posts/newtech/</link>
+      <link>https://lchollet.github.io/lchollet/posts/newtech/</link>
       <pubDate>Thu, 04 Jan 2024 14:08:41 +0100</pubDate>
-      <guid>https://leochollet..ch/posts/newtech/</guid>
+      <guid>https://lchollet.github.io/lchollet/posts/newtech/</guid>
       <description>Introduction Je vais parler d&amp;rsquo;une vidéo intitulée &amp;ldquo;You probably won’t survive 2024&amp;hellip; Top 10 Tech Trends&amp;rdquo; du youtubeur FireShip. Vous pouvez trouver le lien de la vidéo ici. Cette publication est sortie il y a seulement un mois au moment où j&amp;rsquo;écris cet article. Elle présente les prédictions des tendances technologiques pour l&amp;rsquo;année 2024. La vidéo aborde un large éventail de sujets, y compris les cryptomonnaies et les grandes vagues de licenciement dans le secteur technologique (Amazon, Google et Spotify ayant licencié environ 15% de leurs développeurs).</description>
     </item>
     <item>
       <title>CMS Headless: le guide complet</title>
-      <link>https://leochollet..ch/posts/headlesscms/</link>
+      <link>https://lchollet.github.io/lchollet/posts/headlesscms/</link>
       <pubDate>Thu, 04 Jan 2024 09:37:24 +0100</pubDate>
-      <guid>https://leochollet..ch/posts/headlesscms/</guid>
+      <guid>https://lchollet.github.io/lchollet/posts/headlesscms/</guid>
       <description>Introduction Aujourd&amp;rsquo;hui, j&amp;rsquo;ai trouvé un article intéressant sur les headless CMS (Content Management System). L&amp;rsquo;article, &amp;ldquo;CMS Headless: le guide complet&amp;rdquo; , rédigé par StoryBlock, une entreprise spécialisée dans les solutions CMS headless, présente de manière approfondie les avantages et les inconvénients de ce type d&amp;rsquo;outils. J&amp;rsquo;avais déjà brièvement aperçu ce sujet lors de mon cours de marketing digital. Vous pouvez consulter l&amp;rsquo;article ici.
 Headless ? CMS ? Définitions L&amp;rsquo;article commence par définir ce qu&amp;rsquo;est un headless CMS.</description>
     </item>
     <item>
       <title>Les applications web progressive</title>
-      <link>https://leochollet..ch/posts/pwa/</link>
+      <link>https://lchollet.github.io/lchollet/posts/pwa/</link>
       <pubDate>Wed, 03 Jan 2024 15:28:32 +0100</pubDate>
-      <guid>https://leochollet..ch/posts/pwa/</guid>
+      <guid>https://lchollet.github.io/lchollet/posts/pwa/</guid>
       <description>Introduction Une fois de plus, il s&amp;rsquo;agit d&amp;rsquo;un sujet que j&amp;rsquo;ai pu apercevoir en cours et que j&amp;rsquo;ai revisité lors de ma veille technologique. Il s&amp;rsquo;agit des PWA, Progressive Web Apps, des applications qui sont, en essence, des sites web.
 L&amp;rsquo;article de web.dev Les détails concernant ce qu&amp;rsquo;est une PWA sont expliqués en détail. Fondamentalement, il s&amp;rsquo;agit d&amp;rsquo;un site web que l&amp;rsquo;utilisateur peut &amp;ldquo;installer&amp;rdquo; comme une application à partir de son navigateur, s&amp;rsquo;il le souhaite.</description>
     </item>
     <item>
       <title>Les générateur de Sites Statiques</title>
-      <link>https://leochollet..ch/posts/static/</link>
+      <link>https://lchollet.github.io/lchollet/posts/static/</link>
       <pubDate>Wed, 03 Jan 2024 15:21:25 +0100</pubDate>
-      <guid>https://leochollet..ch/posts/static/</guid>
+      <guid>https://lchollet.github.io/lchollet/posts/static/</guid>
       <description>Introduction Au cours de mes études à l&amp;rsquo;HEIG, j&amp;rsquo;ai fait une découverte significative concernant les Générateurs de Sites Statiques (Static Site Generators ou SSG). Ces outils de création de sites web statiques, qui affichent le même contenu à chaque visiteur, cherchent à combler le fossé entre les CMS tels que WordPress (connus pour leur personnalisation et leur facilité d&amp;rsquo;utilisation, mais souvent handicapés par une performance réduite due à la prolifération de nombreux plugins) et la création manuelle en HTML, CSS et JS.</description>
     </item>
   </channel>
