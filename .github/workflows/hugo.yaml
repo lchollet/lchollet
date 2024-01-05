@@ -59,11 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Copy images to correct directory
-        run: |
-          cp -R content/posts/*.jpg public/posts/
-          cp -R content/posts/*.png public/posts/
+            --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
