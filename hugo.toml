@@ -1,0 +1,16 @@
+baseURL = 'https://leochollet..ch/'
+languageCode = 'ch-fr'
+title = 'Portfolio'
+theme = 'ananke'
+
+[menus]
+[[menus.main]]
+    identifier = 'about'
+    name = 'À propos'
+    pageRef = '/about'
+    weight = 10
+[[menus.main]]
+    identifier = 'linkedin'
+    name = 'Linkedin'
+    url = 'https://www.linkedin.com/in/l%C3%A9o-chollet-0354a8241/'
+    weight = 20
