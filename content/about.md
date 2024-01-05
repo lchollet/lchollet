@@ -7,7 +7,7 @@ Ce portfolio à **deux objectifs**, un premier, de **me présenter**, Léo Choll
 
 ## Ikigai
 Pour établir un job que on aime, l'**Ikigai** est très utile, on réunis se que on *aime*, se que l'on *veut* de nous, se que les gens sont prêt à *payer* pour et finalement le domaine on est *bon* et cela forme l'ikigai.
-![Alt text](/Ikigai.png)
+![Ikigai](/images/Ikigai.png)
 
 Pour moi le domaine qui réunis tout est le **développement web**, ayant déjà travailler sur des projets personnel et pour des privés, j'adore le processus et les gens sont prêt à me payer pour ça, quoi de mieux !
 
