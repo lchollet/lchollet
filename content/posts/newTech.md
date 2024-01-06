@@ -30,7 +30,7 @@ Il est dit que pour le développement d'applications, rien d'énorme à changer,
 
 ## L'intelligence Artificielle (10, 6min49)
 La dernière section abordée est l'intelligence artificielle. Le développement des concurrents de ChatGPT va grandement s'améliorer et s'intégrer de plus en plus dans nos applications de tous les jours. Google avec son IA Bard va intégrer des résumés automatiques dans les résultats de recherche, changeant par la même occasion sa manière initiale de fonctionner après des années. Les conséquences sur le SEO (Search Engine Optimization) vont être grandes. Comment se faire trouver sur le web, se faire citer comme source, va être de plus en plus un défi pour tous les sites web.
-![Bard](/posts/bard.png)
+![Bard](https://lchollet.github.io/lchollet/images/bard.png)
 
 ## Conclusion
 Je trouve cette vidéo super intéressante en plus d'être bien rythmée. Les sujets sont abordés très rapidement, mais cela donne une bonne idée de ce qui nous attend pour l'année 2024 : des opportunités potentielles dans l'App Store d'Apple, des outils de développement web et d'application simplifiés, et encore plus d'intelligence artificielle partout. Il faudra suivre, mais ça s'annonce intéressant !
