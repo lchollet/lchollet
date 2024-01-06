@@ -4,6 +4,8 @@ title: "Léo Chollet "
 
 Bienvenu sur mon portfolio en ligne et blog.
 
+![Photo de profil Léo Chollet](https://lchollet.github.io/lchollet/images/profil1.jpeg)
+
 ## Expérience professionnelle
 
 - 2016-2020: **CFC en informatique**
