@@ -22,7 +22,7 @@ Il y a même une série de vidéos qui a pour concept d'expliquer un langage ou 
     ![boss](https://lchollet.github.io/lchollet/images/boss.png)
 
 - **Twitter:** Globalement, je suis les mêmes personnes que sur Youtube, seulement cette fois sur cette plateforme, j'ai plus l'occasion de me "perdre" et naviguer sur des posts recommandés par l'algorithme et aimés par les personnes que je suis. C'est ici que je vais pouvoir tomber sur des articles intéressants et des infos toutes neuves.
-![twitter](/https://lchollet.github.io/lchollet/images/twitter.png)
+![twitter](https://lchollet.github.io/lchollet/images/twitter.png)
 FireShip, que j'ai mentionné est très actifs sur Twitter et postes des éléments intéressants en relation au développement.
 - **L'école, les cours:** les cours à l'HEIG me fournissent déjà des informations sur les dernières technologies émergentes dans le domaine, les professeurs sont en général expérimentés, professionnellement et académiquement. Pour preuve, la première fois que j'ai entendu parler de chatGPT, c'était de la part d'un professeur en cours de Digital Marketing.
 - **L'école, les camarades:** c'est une autre source d'informations pour moi, ayant des camarades passionnés de développement web, de nouvelles technologies, il est évident que c'est aussi une bonne source d'aiguillage pour mes recherches en veille technologique.
