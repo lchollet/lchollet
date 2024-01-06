@@ -6,7 +6,7 @@ date = 2024-01-05T11:06:29+01:00
 
 Dans le cadre de cette veille technologique, j'ai découvert une extension WordPress permettant une gestion dynamique des rendez-vous, nommée Amelia. [Lien vers leur site ici](https://wpamelia.com/)
 
-![Amelia](images/amelia.png)
+![Amelia](https://lchollet.github.io/lchollet/images/amelia.png)
 
 L'extension propose une interface responsive, propre et facile d'utilisation, offrant diverses fonctionnalités telles que des notifications de rendez-vous avec rappel automatique, etc.
 
