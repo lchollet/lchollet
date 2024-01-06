@@ -7,7 +7,7 @@ date = 2024-01-03T15:21:25+01:00
 Au cours de mes études à l'HEIG, j'ai fait une découverte significative concernant les Générateurs de Sites Statiques (Static Site Generators ou SSG). Ces outils de création de sites web statiques, qui affichent le même contenu à chaque visiteur, cherchent à combler le fossé entre les CMS tels que WordPress (connus pour leur personnalisation et leur facilité d'utilisation, mais souvent handicapés par une performance réduite due à la prolifération de nombreux plugins) et la création manuelle en HTML, CSS et JS.
 
 ## L'article de CloudFlare
-![image article](/posts/cloud.png)
+![image article](https://lchollet.github.io/lchollet/images/cloud.png)
 
 Dans le cadre de mes études à l'HEIG, j'effectue une veille technologique centrée sur mon domaine de prédilection : le développement web. L'article que j'ai repéré lors de ma veille est rédigé par CloudFlare, le service de cloud. [Lien vers l'article](https://www.cloudflare.com/learning/performance/static-site-generator/)
 J'ai choisi cet article car il explique de manière claire la distinction entre un CMS et un SSG, en mettant en avant les avantages pratiques de l'un par rapport à l'autre.

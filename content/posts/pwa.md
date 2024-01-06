@@ -12,7 +12,7 @@ Les détails concernant ce qu'est une PWA sont expliqués en détail. Fondamenta
 
 Il est également expliqué la différence entre les applications natives et les applications web purement en ligne. Deux axes sont présentés, à savoir la capacité (capability) et la portée (reach). On comprend donc que les applications natives sont plus capables, tandis que les applications web touchent un plus grand nombre de personnes.
 
-![Shéma qui montre les PWA](/posts/pwa.svg)
+![Shéma qui montre les PWA](https://lchollet.github.io/lchollet/images/pwa.svg)
 Les PWA se situent donc quelque part entre les deux.
 
 ### Les trois fonctionnalités

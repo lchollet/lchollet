@@ -9,12 +9,12 @@ Vous pouvez consulter l'article [ici](https://www.storyblok.com/fr/tp/headless-c
 
 ## Headless ? CMS ? Définitions
 L'article commence par définir ce qu'est un headless CMS. *"Un CMS headless est un système de gestion de contenu qui n'utilise que le backend et qui est conçu dès le départ comme un répertoire de contenu."* Le contenu est rendu via des API RESTful. L'affichage (la tête) est séparé des données (le corps) et le tout est lié via des APIs. Voici un schéma tiré de l'article.
-![hCMS](/images/hCMS.webp)
+![hCMS](https://lchollet.github.io/lchollet/images/hCMS.webp)
 *On voit au centre les données distribuées par l'API*
 
 ## Différences avec un CMS ordinaire ? Pourquoi besoin d'autre chose ?
 Je vais encore une fois prendre un des schémas de l'article qui résume bien le fonctionnement d'un CMS classique.
-![CMS](/posts/CMS.webp)
+![CMS](https://lchollet.github.io/lchollet/images/CMS.webp)
 L'affichage et les données sont pris en charge par le même "bloc", l'affichage front-end est pris en charge par le CMS également. La demande à laquelle répond le CMS headless est lorsque l'on souhaite communiquer sur plusieurs canaux, tels qu'une application mobile, un site web, une interface VR, peu importe. Dans les cas où l'on souhaite communiquer sur plus d'un canal, le CMS traditionnel ne sera pas capable.
 
 ## Avantages d'un Headless CMS
