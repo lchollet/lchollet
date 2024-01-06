@@ -6,11 +6,11 @@ date = 2024-01-05T11:06:29+01:00
 
 Dans le cadre de cette veille technologique, j'ai découvert une extension WordPress permettant une gestion dynamique des rendez-vous, nommée Amelia. [Lien vers leur site ici](https://wpamelia.com/)
 
-![Amelia](/images/amelia.png)
+![Amelia](images/amelia.png)
 
 L'extension propose une interface responsive, propre et facile d'utilisation, offrant diverses fonctionnalités telles que des notifications de rendez-vous avec rappel automatique, etc.
 
-![Notifications](/images/notif.png)
+![Notifications](notif.png)
 
 Dans cette expérimentation, je vais présenter un cas d'utilisation sur mon site dédié aux prises de rendez-vous pour le lavage automobile. [Lien du site de lavage auto](https://p-wash.ch)
 
@@ -18,7 +18,7 @@ Dans cette expérimentation, je vais présenter un cas d'utilisation sur mon sit
 
 Après l'installation de l'extension, j'ai accédé à la page d'accueil regroupant toutes les informations sur les rendez-vous à venir, les gains générés par les rendez-vous précédents et la disponibilité des employés.
 
-![Accueil](/images/accueil.png)
+![Accueil](/static/images/accueil.png)
 
 J'ai créé un employé que j'ai nommé "P-wash lavage à domicile" (la gestion individuelle des employés ne m'intéresse pas ici). J'ai pu lui attribuer des horaires, des tarifs horaires, etc. Bien que je n'utilise pas toutes les fonctionnalités dans mon cas, je comprends leur utilité dans d'autres contextes.
 
@@ -28,7 +28,10 @@ Mon employé est associé à un calendrier Google, permettant l'ajout automatiqu
 
 Chaque employé peut offrir divers services. Dans mon cas, j'ai créé plusieurs services, un par région, avec des tarifs variant en fonction de la distance de Lausanne.
 
-![Services](/images/service.png)
+![Services](service.png)
+![Services](/posts/service.png)
+![Services](/content/posts/service.png)
+
 
 ### Les options
 
