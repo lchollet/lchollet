@@ -2,7 +2,7 @@
 title: "Léo Chollet "
 ---
 
-Bienvenu sur mon portfolio en ligne et blog.
+Bienvenue sur mon portfolio en ligne et blog.
 
 ![Photo de profil Léo Chollet](https://lchollet.github.io/lchollet/images/profil1.jpeg)
 
