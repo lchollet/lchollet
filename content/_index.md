@@ -12,11 +12,12 @@ J'ai 23 ans, j'habite dans la région lausannoise, et je suis passionné par plu
 
 - 2016-2020: **CFC en informatique**
 - 2020: Armée et service civil
-- 2021 à maintenant Bachelor **ingénieur des médias** à l'HEIG-VD de Yverdon-Les-Bains (fin en 2024)
+- 09.2021-09.2024 **Bachelor of Science HES-SO en Ingénierie des médias** à l'HEIG-VD de Yverdon-Les-Bains (fin en 2024)
 
 ## Expérience développement web
-- 2021: passion-poule.ch
-- 2022: passion-peche.ch
-- 2022: loungecar.ch et p-wash.ch
+- 2021: passion-poule.ch, site de blog autour du sujet des poules et leur élevage 
+- 2022: passion-peche.ch, site e-commerce pour accessoire de pêche
+- 2022: loungecar.ch et [p-wash.ch](https://p-wash.ch)
 - 2022: Développement site vitrine pour un privé en collaboration avec [Owdji.ch](https://Owdji.ch)
 - 12.2023: Développement site e-commerce multilingue pour un privé en collaboration avec [Owdji.ch](https://Owdji.ch)
+- 2024: Développement d'un site vitrine pour l'entreprise de chauffage et nettoyage [LémanUniversel](https://www.lemanuniversel.ch)
