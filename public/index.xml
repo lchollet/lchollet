@@ -6,8 +6,16 @@
     <description>Recent content in Léo Chollet  on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-fr</language>
-    <lastBuildDate>Fri, 05 Jan 2024 11:06:29 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 09:34:25 +0100</lastBuildDate>
     <atom:link href="https://lchollet.github.io/lchollet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Refonte du site web de Léman Universel Sàrl : un projet clé en main</title>
+      <link>https://lchollet.github.io/lchollet/posts/realisation/</link>
+      <pubDate>Mon, 20 Jan 2025 09:34:25 +0100</pubDate>
+      <guid>https://lchollet.github.io/lchollet/posts/realisation/</guid>
+      <description>Introduction J&amp;rsquo;ai récemment eu l&amp;rsquo;opportunité de collaborer avec Léman Universel Sàrl, une entreprise spécialisée dans le nettoyage industriel et le chauffage, pour moderniser leur site web. Leur ancien site n&amp;rsquo;avait pas été mis à jour depuis plusieurs années et ne reflétait plus l&amp;rsquo;image professionnelle qu&amp;rsquo;ils souhaitaient véhiculer.
+Ce projet, réalisé en 29 heures, s&amp;rsquo;est déroulé en trois grandes étapes : l&amp;rsquo;analyse des besoins, la création de maquettes et le développement. Voici un retour détaillé sur chaque phase.</description>
+    </item>
     <item>
       <title>Expérimentation - Extention WordPress de prise de rendez-vous</title>
       <link>https://lchollet.github.io/lchollet/posts/experimentation/</link>
