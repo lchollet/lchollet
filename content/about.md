@@ -3,7 +3,7 @@ title: "À propos"
 ---
 
 ## Objectifs de ce portfolio
-Ce portfolio à **deux objectifs**, un premier, de **me présenter**, Léo Chollet le futur inégnieur des médias, mon CV en ligne qui montre mon intérêt pour le développement web avec une liste de mes projets réalisé, et en deuxième objectifs, une série de post sur mon blog, qui montre ma **veille technologie** dans ce domaine qui m'intéresse. J'y montre mes découverte récente dans le web, les nouveaux outils, plugins, et autres éléments nouveau du domaine, nouveau en tout cas pour moi.
+Ce portfolio à **deux objectifs**, un premier, de **me présenter**, Léo Chollet l'ingénieur des médias, mon CV en ligne qui montre mon intérêt pour le développement web avec une liste de mes projets réalisés, et en deuxième objectifs, une série de post sur mon blog, qui montre ma **veille technologie** dans ce domaine qui m'intéresse. J'y montre mes découverte récente dans le web, les nouveaux outils, plugins, et autres éléments nouveau du domaine, nouveau en tout cas pour moi.
 
 ## Ikigai
 Pour établir un job que on aime, l'**Ikigai** est très utile, on réunis se que on *aime*, se que l'on *veut* de nous, se que les gens sont prêt à *payer* pour et finalement le domaine on est *bon* et cela forme l'ikigai.
@@ -13,7 +13,7 @@ Pour moi le domaine qui réunis tout est le **développement web**, ayant déjà
 
 ## La veille technologique
 
-Dans mon sujet de prédilection , j'ai créer une liste des sujets à surveiller au cours des prochains mois, l'idée est de créer des articles sur les sujet que je découvre. Vous retrouvrez donc sur ce site, les articles que j'ai rédigé.
+Dans mon sujet de prédilection , j'ai créer une liste des sujets à surveiller, l'idée est de créer des articles sur les sujet que je découvre. Vous retrouvrez donc sur ce site, les articles que j'ai rédigé.
 
 ## Taxonomie
 Pour cette veille, les articles sur mon radar sont ceux avec un proximité avec les termes évoqués ici.
@@ -73,5 +73,5 @@ Pour cette veille, les articles sur mon radar sont ceux avec un proximité avec 
 - User experience (UX)
 - User interface (UI)
 
-## Technologie utilisé pour ce projet de veille
+## Technologie utilisé pour ce projet de veille et CV
 Pour ce projet de veille, le SSG [Hugo](https://gohugo.io) est utilisé.
