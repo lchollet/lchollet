@@ -4,9 +4,9 @@ title: "Léo Chollet "
 
 Bienvenue sur mon portfolio en ligne et mon blog.
 
-![Photo de profil Léo Chollet](https://lchollet.github.io/lchollet/images/profil1.jpeg)
+![Photo de profil Léo Chollet](images/profil.jpg)
 
-J'ai 23 ans, j'habite à Etoy, et je suis passionné par plusieurs domaines tels que le développement web, la gestion de projet, la course à pied, l'électronique et l'informatique. 
+J'ai 24 ans, j'habite à Etoy, et je suis passionné par plusieurs domaines tels que le développement web, la gestion de projet, la course à pied, l'électronique et l'informatique. 
 
 Grâce aux expériences acquises dans des projets web variés, j'ai découvert que ce qui m'intéresse particulièrement est le processus de **création de solutions** pour des clients. Plus précisément, je suis passionné par la **"traduction"** d'une **demande initiale** en une **solution concrète** et fonctionnelle.  
 
