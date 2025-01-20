@@ -87,7 +87,7 @@ Le projet a été une réussite. Léman Universel Sàrl dispose désormais d’u
 
 Cette expérience m’a permis de renforcer mes compétences en design, développement et gestion de projet. Si vous souhaitez découvrir d’autres réalisations ou en savoir plus sur mes services, je vous invite à consulter mon portfolio :  
 
-👉 [https://leo-chollet-portfolio.com](https://leo-chollet-portfolio.com)  
+👉 [https://lchollet.github.io/lchollet/](https://lchollet.github.io/lchollet/)  
 
 Merci pour votre lecture !  
 
