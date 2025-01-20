@@ -52,7 +52,7 @@ Les maquettes ont été réalisées sur **Figma**, avec deux propositions de cha
   Le logo existant a été conservé pour respecter le budget et maintenir la cohérence avec l’identité actuelle de l’entreprise.  
 
 Voici un extrait des maquettes réalisées :
-![Maquette figma](https://lchollet.github.io/lchollet/images/fimga.png)
+![Figma](https://lchollet.github.io/lchollet/images/figma.png)
 
 Ici, **deux propositions sont faites**, la première à droite présentes les deux services que l'entreprise offres (chauffage et nettoyage) **sans call-to-action (CTA)** et le titres pour "chauffage" ne rend pas bien en raison d'un **constraste mauvais** (orange foncé sur orange dégradé). La proposition de gauche à donc été améliorée suite à à ces problèmes qui on été remarqués.
 
