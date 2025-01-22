@@ -4,7 +4,7 @@ title: "Léo Chollet "
 
 Bienvenue sur mon portfolio en ligne et mon blog.
 
-![Photo de profil Léo Chollet](images/profil.jpg)
+![Photo de profil Léo Chollet](images/profil.webp)
 
 J'ai 24 ans, j'habite à Etoy, et je suis passionné par plusieurs domaines tels que le développement web, la gestion de projet, la course à pied, l'électronique et l'informatique. 
 
