@@ -2,67 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Léo Chollet  on Portfolio</title>
-    <link>https://lchollet.github.io/lchollet/</link>
+    <link>http://localhost:1313/lchollet/</link>
     <description>Recent content in Léo Chollet  on Portfolio</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>ch-fr</language>
-    <lastBuildDate>Mon, 20 Jan 2025 09:34:25 +0100</lastBuildDate>
-    <atom:link href="https://lchollet.github.io/lchollet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jan 2025 09:34:25 +0100</lastBuildDate><atom:link href="http://localhost:1313/lchollet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Refonte du site web de Léman Universel Sàrl : un projet clé en main</title>
-      <link>https://lchollet.github.io/lchollet/posts/refonte-lemanuniversel/</link>
+      <link>http://localhost:1313/lchollet/posts/refonte-lemanuniversel/</link>
       <pubDate>Mon, 20 Jan 2025 09:34:25 +0100</pubDate>
-      <guid>https://lchollet.github.io/lchollet/posts/refonte-lemanuniversel/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai récemment eu l&amp;rsquo;opportunité de collaborer avec &lt;strong&gt;Léman Universel Sàrl&lt;/strong&gt;, une entreprise spécialisée dans le nettoyage industriel et le chauffage, pour moderniser leur site web. Leur ancien site n&amp;rsquo;avait pas été mis à jour depuis plusieurs années et ne reflétait plus l&amp;rsquo;image professionnelle qu&amp;rsquo;ils souhaitaient véhiculer.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lchollet.github.io/lchollet/images/leman.webp&#34; alt=&#34;Leman universel&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ce projet, réalisé en &lt;strong&gt;29 heures&lt;/strong&gt;, s&amp;rsquo;est déroulé en trois grandes étapes : l&amp;rsquo;analyse des besoins, la création de maquettes et le développement. Voici un retour détaillé sur chaque phase.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/lchollet/posts/refonte-lemanuniversel/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;J&amp;rsquo;ai récemment eu l&amp;rsquo;opportunité de collaborer avec &lt;strong&gt;Léman Universel Sàrl&lt;/strong&gt;, une entreprise spécialisée dans le nettoyage industriel et le chauffage, pour moderniser leur site web. Leur ancien site n&amp;rsquo;avait pas été mis à jour depuis plusieurs années et ne reflétait plus l&amp;rsquo;image professionnelle qu&amp;rsquo;ils souhaitaient véhiculer.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lchollet.github.io/lchollet/images/leman.webp&#34; alt=&#34;Leman universel&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ce projet, réalisé en &lt;strong&gt;29 heures&lt;/strong&gt;, s&amp;rsquo;est déroulé en trois grandes étapes : l&amp;rsquo;analyse des besoins, la création de maquettes et le développement. Voici un retour détaillé sur chaque phase.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Expérimentation - Extention WordPress de prise de rendez-vous</title>
-      <link>https://lchollet.github.io/lchollet/posts/experimentation/</link>
+      <link>http://localhost:1313/lchollet/posts/experimentation/</link>
       <pubDate>Fri, 05 Jan 2024 11:06:29 +0100</pubDate>
-      <guid>https://lchollet.github.io/lchollet/posts/experimentation/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Dans le cadre de cette veille technologique, j&amp;rsquo;ai découvert une extension WordPress permettant une gestion dynamique des rendez-vous, nommée Amelia. &lt;a href=&#34;https://wpamelia.com/&#34;&gt;Lien vers leur site ici&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lchollet.github.io/lchollet/images/amelia.png&#34; alt=&#34;Amelia&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;L&amp;rsquo;extension propose une interface responsive, propre et facile d&amp;rsquo;utilisation, offrant diverses fonctionnalités telles que des notifications de rendez-vous avec rappel automatique, etc.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lchollet.github.io/lchollet/images/notif.png&#34; alt=&#34;Notifications&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dans cette expérimentation, je vais présenter un cas d&amp;rsquo;utilisation sur mon site dédié aux prises de rendez-vous pour le lavage automobile. &lt;a href=&#34;https://p-wash.ch&#34;&gt;Lien du site de lavage auto&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/lchollet/posts/experimentation/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Dans le cadre de cette veille technologique, j&amp;rsquo;ai découvert une extension WordPress permettant une gestion dynamique des rendez-vous, nommée Amelia. &lt;a href=&#34;https://wpamelia.com/&#34;&gt;Lien vers leur site ici&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lchollet.github.io/lchollet/images/amelia.png&#34; alt=&#34;Amelia&#34;&gt;&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;extension propose une interface responsive, propre et facile d&amp;rsquo;utilisation, offrant diverses fonctionnalités telles que des notifications de rendez-vous avec rappel automatique, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lchollet.github.io/lchollet/images/notif.png&#34; alt=&#34;Notifications&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dans cette expérimentation, je vais présenter un cas d&amp;rsquo;utilisation sur mon site dédié aux prises de rendez-vous pour le lavage automobile. &lt;a href=&#34;https://p-wash.ch&#34;&gt;Lien du site de lavage auto&lt;/a&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Veille technologique - le système mis en place</title>
-      <link>https://lchollet.github.io/lchollet/posts/ecoute/</link>
+      <link>http://localhost:1313/lchollet/posts/ecoute/</link>
       <pubDate>Thu, 04 Jan 2024 16:26:07 +0100</pubDate>
-      <guid>https://lchollet.github.io/lchollet/posts/ecoute/</guid>
-      <description>&lt;h2 id=&#34;domaine-de-veille&#34;&gt;Domaine de veille&lt;/h2&gt;&#xA;&lt;p&gt;Sur ce blog, vous retrouverez les articles qui concernent mon domaine d&amp;rsquo;intérêt, le développement web. Ce domaine m&amp;rsquo;intéresse car je le trouve relativement simple à comprendre, utile et surtout facilement applicable. Le fait de pouvoir aussi à tout moment travailler en indépendant est aussi un gros plus, ajoutant une grande flexibilité des horaires de travail, etc&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;mes-sources-de-veille&#34;&gt;Mes sources de veille&lt;/h2&gt;&#xA;&lt;p&gt;Pour faire cette veille, je me suis appuyé sur plusieurs sources.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/lchollet/posts/ecoute/</guid>
+      
+      <description>&lt;h2 id=&#34;domaine-de-veille&#34;&gt;Domaine de veille&lt;/h2&gt;
+&lt;p&gt;Sur ce blog, vous retrouverez les articles qui concernent mon domaine d&amp;rsquo;intérêt, le développement web. Ce domaine m&amp;rsquo;intéresse car je le trouve relativement simple à comprendre, utile et surtout facilement applicable. Le fait de pouvoir aussi à tout moment travailler en indépendant est aussi un gros plus, ajoutant une grande flexibilité des horaires de travail, etc&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;mes-sources-de-veille&#34;&gt;Mes sources de veille&lt;/h2&gt;
+&lt;p&gt;Pour faire cette veille, je me suis appuyé sur plusieurs sources.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Les tendances technologique 2024</title>
-      <link>https://lchollet.github.io/lchollet/posts/newtech/</link>
+      <link>http://localhost:1313/lchollet/posts/newtech/</link>
       <pubDate>Thu, 04 Jan 2024 14:08:41 +0100</pubDate>
-      <guid>https://lchollet.github.io/lchollet/posts/newtech/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Je vais parler d&amp;rsquo;une vidéo intitulée &lt;em&gt;&amp;ldquo;You probably won’t survive 2024&amp;hellip; Top 10 Tech Trends&amp;rdquo;&lt;/em&gt; du youtubeur &lt;em&gt;FireShip&lt;/em&gt;. Vous pouvez trouver le lien de la vidéo &lt;a href=&#34;https://www.youtube.com/watch?v=vyQv563Y-fk&#34;&gt;ici&lt;/a&gt;. Cette publication est sortie il y a seulement un mois au moment où j&amp;rsquo;écris cet article. Elle présente les prédictions des tendances technologiques pour l&amp;rsquo;année 2024. La vidéo aborde un large éventail de sujets, y compris les cryptomonnaies et les grandes vagues de licenciement dans le secteur technologique (Amazon, Google et Spotify ayant licencié environ 15% de leurs développeurs). Cependant, dans cet article, je vais me concentrer uniquement sur les tendances technologiques qui sont pertinentes pour mon domaine de veille technologique dans le développement. Néanmoins, ces sujets suscitent également mon intérêt personnel, car il est toujours intéressant de comprendre l&amp;rsquo;évolution du monde du travail, même dans de grandes entreprises où je ne travaillerai probablement jamais.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/lchollet/posts/newtech/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Je vais parler d&amp;rsquo;une vidéo intitulée &lt;em&gt;&amp;ldquo;You probably won’t survive 2024&amp;hellip; Top 10 Tech Trends&amp;rdquo;&lt;/em&gt; du youtubeur &lt;em&gt;FireShip&lt;/em&gt;. Vous pouvez trouver le lien de la vidéo &lt;a href=&#34;https://www.youtube.com/watch?v=vyQv563Y-fk&#34;&gt;ici&lt;/a&gt;. Cette publication est sortie il y a seulement un mois au moment où j&amp;rsquo;écris cet article. Elle présente les prédictions des tendances technologiques pour l&amp;rsquo;année 2024. La vidéo aborde un large éventail de sujets, y compris les cryptomonnaies et les grandes vagues de licenciement dans le secteur technologique (Amazon, Google et Spotify ayant licencié environ 15% de leurs développeurs). Cependant, dans cet article, je vais me concentrer uniquement sur les tendances technologiques qui sont pertinentes pour mon domaine de veille technologique dans le développement. Néanmoins, ces sujets suscitent également mon intérêt personnel, car il est toujours intéressant de comprendre l&amp;rsquo;évolution du monde du travail, même dans de grandes entreprises où je ne travaillerai probablement jamais.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>CMS Headless: le guide complet</title>
-      <link>https://lchollet.github.io/lchollet/posts/headlesscms/</link>
+      <link>http://localhost:1313/lchollet/posts/headlesscms/</link>
       <pubDate>Thu, 04 Jan 2024 09:37:24 +0100</pubDate>
-      <guid>https://lchollet.github.io/lchollet/posts/headlesscms/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Aujourd&amp;rsquo;hui, j&amp;rsquo;ai trouvé un article intéressant sur les headless CMS (Content Management System). L&amp;rsquo;article, &lt;em&gt;&amp;ldquo;CMS Headless: le guide complet&amp;rdquo;&lt;/em&gt; , rédigé par StoryBlock, une entreprise spécialisée dans les solutions CMS headless, présente de manière approfondie les avantages et les inconvénients de ce type d&amp;rsquo;outils. J&amp;rsquo;avais déjà brièvement aperçu ce sujet lors de mon cours de marketing digital.&#xA;Vous pouvez consulter l&amp;rsquo;article &lt;a href=&#34;https://www.storyblok.com/fr/tp/headless-cms-explique&#34;&gt;ici&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;headless--cms--définitions&#34;&gt;Headless ? CMS ? Définitions&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;article commence par définir ce qu&amp;rsquo;est un headless CMS. &lt;em&gt;&amp;ldquo;Un CMS headless est un système de gestion de contenu qui n&amp;rsquo;utilise que le backend et qui est conçu dès le départ comme un répertoire de contenu.&amp;rdquo;&lt;/em&gt; Le contenu est rendu via des API RESTful. L&amp;rsquo;affichage (la tête) est séparé des données (le corps) et le tout est lié via des APIs. Voici un schéma tiré de l&amp;rsquo;article.&#xA;&lt;img src=&#34;https://lchollet.github.io/lchollet/images/hCMS.webp&#34; alt=&#34;hCMS&#34;&gt;&#xA;&lt;em&gt;On voit au centre les données distribuées par l&amp;rsquo;API&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/lchollet/posts/headlesscms/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Aujourd&amp;rsquo;hui, j&amp;rsquo;ai trouvé un article intéressant sur les headless CMS (Content Management System). L&amp;rsquo;article, &lt;em&gt;&amp;ldquo;CMS Headless: le guide complet&amp;rdquo;&lt;/em&gt; , rédigé par StoryBlock, une entreprise spécialisée dans les solutions CMS headless, présente de manière approfondie les avantages et les inconvénients de ce type d&amp;rsquo;outils. J&amp;rsquo;avais déjà brièvement aperçu ce sujet lors de mon cours de marketing digital.
+Vous pouvez consulter l&amp;rsquo;article &lt;a href=&#34;https://www.storyblok.com/fr/tp/headless-cms-explique&#34;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;headless--cms--définitions&#34;&gt;Headless ? CMS ? Définitions&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;article commence par définir ce qu&amp;rsquo;est un headless CMS. &lt;em&gt;&amp;ldquo;Un CMS headless est un système de gestion de contenu qui n&amp;rsquo;utilise que le backend et qui est conçu dès le départ comme un répertoire de contenu.&amp;rdquo;&lt;/em&gt; Le contenu est rendu via des API RESTful. L&amp;rsquo;affichage (la tête) est séparé des données (le corps) et le tout est lié via des APIs. Voici un schéma tiré de l&amp;rsquo;article.
+&lt;img src=&#34;https://lchollet.github.io/lchollet/images/hCMS.webp&#34; alt=&#34;hCMS&#34;&gt;
+&lt;em&gt;On voit au centre les données distribuées par l&amp;rsquo;API&lt;/em&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Les applications web progressive</title>
-      <link>https://lchollet.github.io/lchollet/posts/pwa/</link>
+      <link>http://localhost:1313/lchollet/posts/pwa/</link>
       <pubDate>Wed, 03 Jan 2024 15:28:32 +0100</pubDate>
-      <guid>https://lchollet.github.io/lchollet/posts/pwa/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Une fois de plus, il s&amp;rsquo;agit d&amp;rsquo;un sujet que j&amp;rsquo;ai pu apercevoir en cours et que j&amp;rsquo;ai revisité lors de ma veille technologique. Il s&amp;rsquo;agit des PWA, Progressive Web Apps, des applications qui sont, en essence, des sites web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;larticle-de-webdev&#34;&gt;L&amp;rsquo;article de web.dev&lt;/h2&gt;&#xA;&lt;p&gt;Les détails concernant ce qu&amp;rsquo;est une PWA sont expliqués en détail. Fondamentalement, il s&amp;rsquo;agit d&amp;rsquo;un site web que l&amp;rsquo;utilisateur peut &amp;ldquo;installer&amp;rdquo; comme une application à partir de son navigateur, s&amp;rsquo;il le souhaite. Elle sera donc capable de fonctionner sans connexion internet (sauf si les actions effectuées par l&amp;rsquo;utilisateur nécessitent une connexion), de stocker des informations en local et d&amp;rsquo;accéder facilement aux fonctionnalités natives de l&amp;rsquo;appareil sur lequel elle est installée, telles que l&amp;rsquo;accéléromètre sur un smartphone.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/lchollet/posts/pwa/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Une fois de plus, il s&amp;rsquo;agit d&amp;rsquo;un sujet que j&amp;rsquo;ai pu apercevoir en cours et que j&amp;rsquo;ai revisité lors de ma veille technologique. Il s&amp;rsquo;agit des PWA, Progressive Web Apps, des applications qui sont, en essence, des sites web.&lt;/p&gt;
+&lt;h2 id=&#34;larticle-de-webdev&#34;&gt;L&amp;rsquo;article de web.dev&lt;/h2&gt;
+&lt;p&gt;Les détails concernant ce qu&amp;rsquo;est une PWA sont expliqués en détail. Fondamentalement, il s&amp;rsquo;agit d&amp;rsquo;un site web que l&amp;rsquo;utilisateur peut &amp;ldquo;installer&amp;rdquo; comme une application à partir de son navigateur, s&amp;rsquo;il le souhaite. Elle sera donc capable de fonctionner sans connexion internet (sauf si les actions effectuées par l&amp;rsquo;utilisateur nécessitent une connexion), de stocker des informations en local et d&amp;rsquo;accéder facilement aux fonctionnalités natives de l&amp;rsquo;appareil sur lequel elle est installée, telles que l&amp;rsquo;accéléromètre sur un smartphone.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Les générateur de Sites Statiques</title>
-      <link>https://lchollet.github.io/lchollet/posts/static/</link>
+      <link>http://localhost:1313/lchollet/posts/static/</link>
       <pubDate>Wed, 03 Jan 2024 15:21:25 +0100</pubDate>
-      <guid>https://lchollet.github.io/lchollet/posts/static/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Au cours de mes études à l&amp;rsquo;HEIG, j&amp;rsquo;ai fait une découverte significative concernant les Générateurs de Sites Statiques (Static Site Generators ou SSG). Ces outils de création de sites web statiques, qui affichent le même contenu à chaque visiteur, cherchent à combler le fossé entre les CMS tels que WordPress (connus pour leur personnalisation et leur facilité d&amp;rsquo;utilisation, mais souvent handicapés par une performance réduite due à la prolifération de nombreux plugins) et la création manuelle en HTML, CSS et JS.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/lchollet/posts/static/</guid>
+      
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Au cours de mes études à l&amp;rsquo;HEIG, j&amp;rsquo;ai fait une découverte significative concernant les Générateurs de Sites Statiques (Static Site Generators ou SSG). Ces outils de création de sites web statiques, qui affichent le même contenu à chaque visiteur, cherchent à combler le fossé entre les CMS tels que WordPress (connus pour leur personnalisation et leur facilité d&amp;rsquo;utilisation, mais souvent handicapés par une performance réduite due à la prolifération de nombreux plugins) et la création manuelle en HTML, CSS et JS.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>À propos</title>
-      <link>https://lchollet.github.io/lchollet/about/</link>
+      <link>http://localhost:1313/lchollet/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lchollet.github.io/lchollet/about/</guid>
-      <description>&lt;h2 id=&#34;objectifs-de-ce-portfolio&#34;&gt;Objectifs de ce portfolio&lt;/h2&gt;&#xA;&lt;p&gt;Ce portfolio à &lt;strong&gt;deux objectifs&lt;/strong&gt;, un premier, de &lt;strong&gt;me présenter&lt;/strong&gt;, Léo Chollet l&amp;rsquo;ingénieur des médias, mon CV en ligne qui montre mon intérêt pour le développement web avec une liste de mes projets réalisés, et en deuxième objectifs, une série de post sur mon blog, qui montre ma &lt;strong&gt;veille technologie&lt;/strong&gt; dans ce domaine qui m&amp;rsquo;intéresse. J&amp;rsquo;y montre mes découverte récente dans le web, les nouveaux outils, plugins, et autres éléments nouveau du domaine, nouveau en tout cas pour moi.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/lchollet/about/</guid>
+      
+      <description>&lt;h2 id=&#34;objectifs-de-ce-portfolio&#34;&gt;Objectifs de ce portfolio&lt;/h2&gt;
+&lt;p&gt;Ce portfolio à &lt;strong&gt;deux objectifs&lt;/strong&gt;, un premier, de &lt;strong&gt;me présenter&lt;/strong&gt;, Léo Chollet l&amp;rsquo;ingénieur des médias, mon CV en ligne qui montre mon intérêt pour le développement web avec une liste de mes projets réalisés, et en deuxième objectifs, une série de post sur mon blog, qui montre ma &lt;strong&gt;veille technologie&lt;/strong&gt; dans ce domaine qui m&amp;rsquo;intéresse. J&amp;rsquo;y montre mes découverte récente dans le web, les nouveaux outils, plugins, et autres éléments nouveau du domaine, nouveau en tout cas pour moi.&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>

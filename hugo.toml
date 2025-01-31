@@ -1,7 +1,7 @@
 baseURL = 'https://lchollet.github.io/lchollet/'
 languageCode = 'ch-fr'
 title = 'Portfolio'
-theme = 'ananke'
+theme = 'hugo-blog-awesome'
 
 [menus]
 [[menus.main]]
